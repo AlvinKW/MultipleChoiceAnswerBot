@@ -1,0 +1,209 @@
+Question: 'Who is the first president of the United States?'
+Multiple Choices: 
+	a) george washington  = 64.13%
+	b) bill gates  = 0.00%
+	c) donald trump  = 21.74%
+	d) barack obama  = 13.04%
+	e) abraham lincoln  = 1.09%
+
+The most correct answer would be: a) george washington 
+-------------------------------------------------------
+Question: 'who is the current president?'
+Multiple Choices: 
+	barack obama  = 11.25%
+	donald trump  = 78.75%
+	george washington  = 10.00%
+	alvin kwan  = 0.00%
+
+The most correct answer would be: donald trump 
+-------------------------------------------------------
+Question: 'What is the capital of Maine?'
+Multiple Choices: 
+	boston  = 0.00%
+	austin  = 0.00%
+	augusta  = 100.00%
+
+The most correct answer would be: augusta 
+-------------------------------------------------------
+Question: 'How many bones are in the human body?'
+Multiple Choices: 
+	a) 206  = 100.00%
+	b) 205  = 0.00%
+	c) 201  = 0.00%
+	d) 209  = 0.00%
+
+The most correct answer would be: a) 206 
+-------------------------------------------------------
+Question: 'what is the capital of massachusetts?'
+Multiple Choices: 
+	boston  = 100.00%
+	sacramento  = 0.00%
+	autson  = 0.00%
+	augustus  = 0.00%
+
+The most correct answer would be: boston 
+-------------------------------------------------------
+Question: 'How many bones are in the human body?'
+Multiple Choices: 
+	a) 206  = 100.00%
+	b) 205  = 0.00%
+	c) 201  = 0.00%
+	d) 209  = 0.00%
+
+The most correct answer would be: a) 206 
+-------------------------------------------------------
+Question: 'How many bones are in the human body?'
+Multiple Choices: 
+	a) 206  = 100.00%
+	b) 205  = 0.00%
+	c) 201  = 0.00%
+	d) 209  = 0.00%
+
+The most correct answer would be: a) 206 
+-------------------------------------------------------
+Question: 'which company sells iphones?'
+Multiple Choices: 
+	apple  = 100.00%
+	tesla  = 0.00%
+	microsoft  = 0.00%
+	the  = 0.00%
+
+The most correct answer would be: apple 
+-------------------------------------------------------
+Question: 'What is the name for the Jewish New Year?'
+Multiple Choices: 
+	a) hanukkah  = 0.00%
+	b) yom kippur  = 15.48%
+	c) kwanza  = 0.00%
+	d) rosh hashanah  = 84.52%
+
+The most correct answer would be: d) rosh hashanah 
+-------------------------------------------------------
+Question: 'What is the capital of Massachusetts?'
+Multiple Choices: 
+	a) washington  = 1.85%
+	b) boston  = 96.30%
+	c) sacramento  = 0.00%
+	d) little rock  = 0.00%
+	e) phoenix  = 1.85%
+
+The most correct answer would be: b) boston 
+-------------------------------------------------------
+Question: 'What city is boston university located?'
+Multiple Choices: 
+	boston  = 99.47%
+	newton  = 0.53%
+	dedham  = 0.00%
+	natick  = 0.00%
+
+The most correct answer would be: boston 
+-------------------------------------------------------
+Question: 'what color is the sky?'
+Multiple Choices: 
+	red  = 13.76%
+	yellow  = 6.42%
+	blue  = 72.48%
+	white  = 7.34%
+
+The most correct answer would be: blue 
+-------------------------------------------------------
+Question: 'What is the capital of Germany?'
+Multiple Choices: 
+	a) berlin  = 91.38%
+	b) munich  = 3.45%
+	c) hamburg  = 5.17%
+	d) boston  = 0.00%
+
+The most correct answer would be: a) berlin 
+-------------------------------------------------------
+Question: 'Fe is the chemical symbol for?'
+Multiple Choices: 
+	zinc  = 1.55%
+	hydrogen  = 1.55%
+	fluorine  = 1.55%
+	iron  = 95.35%
+
+The most correct answer would be: iron 
+-------------------------------------------------------
+Question: 'Which country gifted the statue of liberty to the U.S.?'
+Multiple Choices: 
+	germany  = 0.00%
+	china  = 2.27%
+	france  = 95.45%
+	italy  = 2.27%
+
+The most correct answer would be: france 
+-------------------------------------------------------
+Question: 'Who is the first president of the United States?'
+Multiple Choices: 
+	a) george washington  = 79.25%
+	b) bill gates  = 0.00%
+	c) donald trump  = 11.32%
+	d) barack obama  = 8.49%
+	e) abraham lincoln  = 0.94%
+
+The most correct answer would be: a) george washington 
+-------------------------------------------------------
+Question: 'What is the capital of Germany?'
+Multiple Choices: 
+	a) berlin  = 95.74%
+	b) munich  = 4.26%
+	c) hamburg  = 0.00%
+	d) boston  = 0.00%
+
+The most correct answer would be: a) berlin 
+-------------------------------------------------------
+Question: 'which one came first the chicken or the egg?'
+Multiple Choices: 
+	chicken  = 50.29%
+	egg  = 49.71%
+
+The most correct answer would be: chicken 
+-------------------------------------------------------
+Question: 'AO. Trivia Question: Which country gifted the Statue of Liberty to the U.S.?'
+Multiple Choices: 
+	a) germany  = 4.35%
+	b) china  = 4.35%
+	c) france  = 91.30%
+	d) italy  = 0.00%
+
+The most correct answer would be: c) france 
+-------------------------------------------------------
+Question: 'Who is the first president of the United States?'
+Multiple Choices: 
+	a) george washington  = 84.76%
+	b) bill gates  = 0.00%
+	c) donald trump  = 9.52%
+	d) barack obama  = 4.76%
+	e) abraham lincoln  = 0.95%
+
+The most correct answer would be: a) george washington 
+-------------------------------------------------------
+Question: 'Where is Boston University located?'
+Multiple Choices: 
+	boston  = 100.00%
+	newton  = 0.00%
+	natick  = 0.00%
+	burlington  = 0.00%
+
+The most correct answer would be: boston 
+-------------------------------------------------------
+Question: 'Who is the first president of the United States?'
+Multiple Choices: 
+	a) george washington  = 66.67%
+	b) bill gates  = 4.30%
+	c) donald trump  = 23.66%
+	d) barack obama  = 3.23%
+	e) abraham lincoln  = 2.15%
+
+The most correct answer would be: a) george washington 
+-------------------------------------------------------
+Question: 'Where is boston university located?'
+Multiple Choices: 
+	boston  = 100.00%
+	newton  = 0.00%
+	natick  = 0.00%
+	burlington  = 0.00%
+
+The most correct answer would be: boston 
+-------------------------------------------------------

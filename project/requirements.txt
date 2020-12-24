@@ -1,0 +1,8 @@
+nltk
+Pillow
+pytesseract
+regex
+requests
+tqdm
+urllib3
+tesseract
