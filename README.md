@@ -42,9 +42,9 @@ https://rapidapi.com/apigeek/api/google-search3/endpoints
 
 ### Running the application
 cd to where main.py located and in terminal use commands:
-'''
+```
 python3 main.py
-'''
+```
 
 
 ## Author
